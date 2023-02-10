@@ -12,4 +12,4 @@ def quick_sort(lst: list):
 
 print(quick_sort([-6, 1, 2]))
 
-print()
+print('Hello')
